@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     right: 0,
   },
   navBarText: {
-    fontSize: 16,
+    fontSize: 17,
     marginVertical: 10,
     flex: 2,
     textAlign: 'center',
@@ -45,13 +45,13 @@ const styles = StyleSheet.create({
     position: 'absolute',
     left: 0,
     right: 0,
-    bottom: 15,
+    bottom: 10,
   },
   navBarLeftButton: {
-    paddingLeft: 10,
+    paddingLeft: 8,
   },
   navBarRightButton: {
-    paddingRight: 10,
+    paddingRight: 8,
   },
   navBarButtonText: {
     color: '#5890ff',
